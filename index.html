@@ -1,13 +1,46 @@
----
-layout: default
-title: Your New Jekyll Site
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Coming soon... - threkk.com</title>
+        <style type="text/css">
+            body {
+                margin: 40px auto;
+                max-width: 650px;
+                line-height: 1.6;
+                font-size: 18px;
+                color: #444;
+                padding: 0 10px;
+            }
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+            h1,h2,h3 {
+                line-height: 1.2;
+            }
+            
+            a {
+                color: #444;
+                font-weight: bold;
+            }
+
+            li.email:after {
+                content: "alberto\40threkk.com";
+                font-style: italic;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1 title="a.k.a. threkk">Alberto Mart&iacute;nez de Murga Ram&iacute;rez</h1>
+            <small><em>a.k.a. threkk</em></small>
+        </header>
+        <p><em>threkk.com</em> is coming soon. Meanwhile, you can find
+        me at:</p>
+        <ul>
+            <li class="email">Email: </li>
+            <li>Github: <a href="https://github.com/threkk" target="_blank">threkk</a></li>
+            <li>Twitter: <a href="https://twitter.com/threkk" target="_blank">@threkk</a></li>
+            <li>LinkedIn: <a href="https://nl.linkedin.com/in/threkk" target="_blank">threkk</a></li>
+        </ul>
+    </body>
+</html>
