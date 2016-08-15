@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/threkk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://threkk.com
+  * I am threkk (https://keybase.io/threkk) on keybase.
+  * I have a public key ASC4KA7VfS7ub3sWz5tmTCHJTBdMVLAuoTCiQ4SUDVGhjAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b8280ed57d2eee6f7b16cf9b664c21c94c174c54b02ea130a24384940d51a18c0a",
+            "host": "keybase.io",
+            "kid": "0120b8280ed57d2eee6f7b16cf9b664c21c94c174c54b02ea130a24384940d51a18c0a",
+            "uid": "d0fd7bfe7009dfdf7b3fb3176cdfc919",
+            "username": "threkk"
+        },
+        "service": {
+            "hostname": "threkk.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471299423,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471299387,
+        "hash": "8f999a8eebc1f9be136bd4acd942d6bc00885decd8999d3db5fd011b9d4a9d7a40e31c6fd909ead3df4667d7bd11d870158efb644a4b4f2e84183f903b4252ea",
+        "seqno": 579196
+    },
+    "prev": "8b44e9f12fb11988909cc44469a1934f9401497c81ba2aa4322ab12efe0ecc71",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguCgO1X0u7m97Fs+bZkwhyUwXTFSwLqEwokOElA1RoYwKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjgyODBlZDU3ZDJlZWU2ZjdiMTZjZjliNjY0YzIxYzk0YzE3NGM1NGIwMmVhMTMwYTI0Mzg0OTQwZDUxYTE4YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjgyODBlZDU3ZDJlZWU2ZjdiMTZjZjliNjY0YzIxYzk0YzE3NGM1NGIwMmVhMTMwYTI0Mzg0OTQwZDUxYTE4YzBhIiwidWlkIjoiZDBmZDdiZmU3MDA5ZGZkZjdiM2ZiMzE3NmNkZmM5MTkiLCJ1c2VybmFtZSI6InRocmVrayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGhyZWtrLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcxMjk5NDIzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzEyOTkzODcsImhhc2giOiI4Zjk5OWE4ZWViYzFmOWJlMTM2YmQ0YWNkOTQyZDZiYzAwODg1ZGVjZDg5OTlkM2RiNWZkMDExYjlkNGE5ZDdhNDBlMzFjNmZkOTA5ZWFkM2RmNDY2N2Q3YmQxMWQ4NzAxNThlZmI2NDRhNGI0ZjJlODQxODNmOTAzYjQyNTJlYSIsInNlcW5vIjo1NzkxOTZ9LCJwcmV2IjoiOGI0NGU5ZjEyZmIxMTk4ODkwOWNjNDQ0NjlhMTkzNGY5NDAxNDk3YzgxYmEyYWE0MzIyYWIxMmVmZTBlY2M3MSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBI3aiu29uBL1I2eXE9ck+zdZvrWUgLDZ9pZ4NPkmAEaWMgeS/2kxmceTohaXVwOe0cKlvcMfyd55WQEyrb0kgNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg4uSkblAYNqqLqj13nuJe+RtDMja3XyGfPGWnfvtcHRijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/threkk
+
+==================================================================
