@@ -1,0 +1,73 @@
+html, body {
+    /* Maximise */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+    /* Line spacing */
+    line-height: 1.5;
+  
+    /* Background */
+    background-color: #f8f8f9;
+
+    /* Font */
+    font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+    color: #112147;
+    font-size: 18px;
+}
+
+.content {
+    /* Centering the text */
+    margin: auto;
+    max-width: 50em;   
+    /* Adding the padding for small screens */
+    padding: 2em 1em 4em 1em;     
+}
+
+ul {
+    /* We are using icons instead */
+    list-style: none;    
+}
+
+strong {
+    color: #0a2e5c;    
+}
+
+a {
+    color: #eb9902;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;    
+}
+
+header {
+    font-family: 'Poiret One', cursive;        
+    background-color: #0a2e5c;
+    background-size: cover;
+    line-height: 1.2;
+    padding: 10em 0 3em 0;
+    box-shadow: inset 0 0 200em #111111;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #f8f8f9;
+    margin: 0 auto;
+}
+
+header p {
+    color: #eb9902;
+    font-style: italic;
+}
+
+/* Not used yet, just defined.
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #0a2e5c;
+}
+*/
