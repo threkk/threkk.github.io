@@ -54,16 +54,11 @@
         <meta name="twitter:description" content="Alberto Mtnz.de Murga - Software engineer, geek, night owl, history fan, procrastinator." />
         <meta name="twitter:image" content="https://threkk.com/screenshot.png">
 
-        <title>Alberto Mtnz. de Murga | threkk.com</title>
+        <title>{{ title }}</title>
         <meta name="description" content="Alberto Mtnz.de Murga - Software engineer, geek, night owl, history fan, procrastinator." />        
         
     </head>
     <body>
-        <h1>Hi I'm Alberto Mtz. de Murga</h1>
-<h3><em>aka. threkk</em></h3>
-<p>I am a Spanish <s>Software Engineer</s> Internet Plumber currently living in <strong>Paris</strong>. I work at <a href="https://blueharvest.io">Blue Harvest</a> as Lead Engineer and study part-time a Master's degree in Software Engineering at the <a href="https://www.uva.nl">University of Amsterdam</a>. I work on full-stack (front end, back end, architecture, cloud) projects using mainly JavaScript, Python and Go.</p>
-<p>On my free time, I am interested in books, especially in history, fantasy and science fiction; videogames and eSports, and technology and its applications, especially interested in cryptography and data privacy. Essentially, I am 50% nerd and 50% geek.</p>
-<p>I write things, concretely, <a href="https://twitter.com/threkk">short things</a> about my life, <a href="https://medium.com/@threkk">longer things</a> about technology, and <a href="https://github.com/threkk">open source software</a>. I also reply to <a href="mailto:hello@threkk.com">emails</a>.</p>
-
+        {{ content | safe }}
     </body>
 </html>
